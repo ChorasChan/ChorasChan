@@ -1,6 +1,6 @@
 # Honghui Chen (Choras Chan)
 
-PhD researcher at the **Centre for Clinical Brain Sciences (CCBS)**, School of Neurological and Cardiovascular Sciences, College of Medicine and Veterinary Medicine, **The University of Edinburgh**.
+PhD student in **Psychiatry** at **The University of Edinburgh**, based at the **Centre for Clinical Brain Sciences (CCBS)**, School of Neurological and Cardiovascular Sciences, College of Medicine and Veterinary Medicine.
 
 **Supervisor:** [Dr Alex Kwong](https://edwebprofiles.ed.ac.uk/node/113985)
 
