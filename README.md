@@ -1,4 +1,4 @@
-# Honghui Chen (Choras Chan)
+# Honghui Chen (Sage Chan)
 
 PhD student in **Psychiatry** at **The University of Edinburgh**, based at the **Centre for Clinical Brain Sciences (CCBS)**, School of Neurological and Cardiovascular Sciences, College of Medicine and Veterinary Medicine.
 
