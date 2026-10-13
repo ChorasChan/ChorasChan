@@ -8,11 +8,11 @@ My research sits at the intersection of **AI for Psychology**, **NeuroAI**, and 
 
 ## Research interests
 
-- AI for psychology and psychological assessment
+- AI for psychology
 - Mental health data science
 - Large language models and multi-agent systems
 - Digital mental health
-- NeuroAI
+
 
 ## Selected work
 
